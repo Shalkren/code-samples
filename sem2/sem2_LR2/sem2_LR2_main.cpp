@@ -1,4 +1,4 @@
-#include "sem2_LR2.hpp"
+#include "sem2_LR2_func.hpp"
 int main(){
     int n;
     while(true){
