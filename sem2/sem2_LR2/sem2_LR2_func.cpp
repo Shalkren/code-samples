@@ -1,5 +1,5 @@
 
-#include "sem2_LR2.hpp"
+#include "sem2_LR2_func.hpp"
 using namespace std;
 void CVector :: init(){
     size=0;
